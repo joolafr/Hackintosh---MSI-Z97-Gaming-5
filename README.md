@@ -15,6 +15,13 @@ After the installation :
 First boot on USB key: -v nv_disable=1
 Install the nvidia web driver
 After: -v nvda_drv=1
-MultiBeast Quick Start / DSDT free Drivers / Network / Atheros / AtherosE2200Ethernet https://github.com/Mieze/AtherosE2200Ethernet Boot Options / Verbose Boot System Definition iMac 14,2 (got boot problems with other System Definition)
+
+MultiBeast Quick Start 
+/ DSDT free Drivers 
+/ Network 
+/ Atheros 
+/ AtherosE2200Ethernet https://github.com/Mieze/AtherosE2200Ethernet 
+
+Boot Options / Verbose Boot System Definition iMac 14,2 (got boot problems with other System Definition)
 
 HDMI sound : http://forums.macrumors.com/threads/guide-hdmi-audio.1499797/
